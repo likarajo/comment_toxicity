@@ -14,7 +14,7 @@ To perform general multi-label classification with an image as input and to pred
 ## Dataset
 * Comments from [Wikipedia's talk page edits](https://en.wikipedia.org/wiki/Help:Talk_pages). 
 * There are six output labels for each comment: toxic, severe_toxic, obscene, threat, insult and identity_hate. 
-* Kaggle Link: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+* Kaggle Link: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data | https://www.kaggle.com/likarajo/toxic-comments
 
 ## Dependencies
 * Pandas
